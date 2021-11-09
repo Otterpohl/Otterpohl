@@ -23,7 +23,7 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=otterpohl&" alt="otterpohl" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Otterpohl&theme=nord&date_format=j%20M%5B%20Y%5D&background=FFFFFF&dates=434343&currStreakNum=434343&fire=FFFFFF&sideNums=434343&ring=E6E6E6&stroke=434343&border=434343&sideLabels=434343&currStreakLabel=434343" alt="otterpohl" />
 </p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otterpohl&show_icons=true&locale=en&layout=compact" alt="otterpohl" />
